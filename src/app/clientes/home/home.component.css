@@ -1,0 +1,19 @@
+.container{
+    border: 1px solid rgba(126, 126, 126, 0.562);
+    border-radius: 10px;
+    margin-top: 40px;
+    padding: 25px;
+    justify-content: center;
+    display: flex;
+}
+
+.btn, btn-warning{
+    margin-right: 10px;
+}
+
+#botaoNovo{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+}

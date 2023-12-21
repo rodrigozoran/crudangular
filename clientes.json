@@ -1,0 +1,69 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome_cliente": "Rodrigo Garcez",
+      "data_nascimento": "1991-09-21",
+      "endereco": "Rua Teste",
+      "numero": "123",
+      "complemento": "proximo ao Carrefour",
+      "uf": "RJ",
+      "cidade": "Duque de Caxias",
+      "cep": "12345678",
+      "telefone": "21987654321",
+      "email": "teste@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome_cliente": "Zoran Rodrigo",
+      "data_nascimento": "1991-03-25",
+      "endereco": "Rua Testado",
+      "numero": "321",
+      "complemento": "Casa",
+      "uf": "RJ",
+      "cidade": "Rio de Janeiro",
+      "cep": "87654321",
+      "telefone": "21987654321",
+      "email": "teste@hotmail.com"
+    },
+    {
+      "id": 3,
+      "nome_cliente": "João das Couves",
+      "data_nascimento": "2023-12-20",
+      "endereco": "Av Ex",
+      "numero": "100",
+      "complemento": "sdasdadsa ",
+      "uf": "RJ",
+      "cidade": "Rio de Janeiro",
+      "cep": "25065220",
+      "telefone": "21970099482",
+      "email": "teste@teste.com"
+    },
+    {
+      "id": 4,
+      "nome_cliente": "Marcos",
+      "data_nascimento": "2015-01-14",
+      "endereco": "Av Ex",
+      "numero": "12",
+      "complemento": "kkkk",
+      "uf": "RJ",
+      "cidade": "Duque de Caxias",
+      "cep": "12345678",
+      "telefone": "21970099482",
+      "email": "ssdsad@gahsuahd.com"
+    },
+    {
+      "id": 5,
+      "nome_cliente": "Adilio",
+      "data_nascimento": "2023-12-10",
+      "endereco": "Rua X",
+      "numero": "12",
+      "complemento": "Teste",
+      "uf": "SP",
+      "cidade": "São Paulo",
+      "cep": "01011110",
+      "telefone": "21970099482",
+      "email": "ssdsad@gahsuahd.com"
+    }
+  ]
+}
